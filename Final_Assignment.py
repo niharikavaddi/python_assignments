@@ -53,7 +53,7 @@ class Course:
 
 
 class Admin(Course, Student):
-    admin_id = "1234"
+    admin_id = "admin"
     admin_password = "password"
     admin_name = "Lakshmi"
 
